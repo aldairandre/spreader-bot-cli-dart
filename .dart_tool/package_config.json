@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "spreader_bot",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    }
+  ],
+  "generated": "2023-03-28T00:29:15.583981Z",
+  "generator": "pub",
+  "generatorVersion": "2.19.4"
+}
