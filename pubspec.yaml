@@ -7,6 +7,7 @@ environment:
   sdk: '>=2.8.1 <3.0.0'
 
 dependencies: 
+  dart_dotenv: ^1.0.1
   http: ^0.13.5
 
 dev_dependencies:
